@@ -181,8 +181,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .heading-highlight {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.data.template.color.primary }};
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive !important;
+    color: #{{ site.data.template.color.primary }} !important;
 }
 
 .navbar-default .navbar-brand:hover,
