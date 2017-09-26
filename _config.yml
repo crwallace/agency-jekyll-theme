@@ -1,5 +1,5 @@
-url: https://crwallace.github.io
-baseurl: /agency-jekyll-theme/
+url: http://www.nucreative.co
+baseurl: /
 
 # Site settings
 title: NuCreative
@@ -48,12 +48,6 @@ people:
 #    url: http://twitter.com/jekyllrb
 #  - title: facebook
 #    url:
-#  - title: stack-overflow
-#    url: http://stackoverflow.com/questions/tagged/jekyll
-#  - title: bitbucket 
-#    url: http://bitbucket.org/jekyll
-#  - title: github
-#    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
